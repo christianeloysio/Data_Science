@@ -5,13 +5,13 @@
 </p>
 
 # Christian Eloysio
-<sub>*Strategy Analyst* na Accenture Brasil</sub>
+<sub>*Strategy Analyst* at Accenture Brasil</sub>
 
-**Piloto de Caça que virou consultor**
+**Fighter Pilot turned Strategy Consultant**
 
-Com as experiências vividas como piloto de caça, agregado ao conhecimento de indústria que tenho adquirido como consultor de estratégia, consigo combinar forte capacidade analítica com capacidade de execução. Desenvolvi aplicações Web e Mobile, incluindo uma plataforma de soluções colaborativas para problemas sociais no Brasil, além de aplicativo de gestão de estoque para microempreendedores. Nos últimos anos, tenho me dedicado a entender como a tecnologia pode criar valor dentro de contextos de negócio, com foco em Data Science e Machine Learning.
+With the experiencies I had as a fighter pilot, added to the knowledge absorved as a Strategy Consultant, I can combine strong analytical habilities to execution.I have already developed web and mobile applications, including a platform to solve social problems collaboratively in Brazil, and also an inventory management mobile app for small and medium business. Lately, I have dedicated myself to understand how technology can create value in a business enviroment, fos=cusing in data science and machine learning.
 
-Graduei-me com bacharelado em Administração, e Ciências Aeronáuticas com média geral de 9,73/10. Tive a oportunidade de ser o primeiro brasileiro a estudar por um semestre na U.S. Air Force Academy, em Colorado Springs, me aprofundando em assuntos como Liderança, Defesa Estratégica do Espaço Aéreo, Design Operacional, dentre outras disciplinas.
+I graduated in Management and in Aeronautical Science with an average score of 9,73/10. I had the opportunity to be the first Brazilian to go for a semester exchange at the U.S. Air Force Academy in Colorado Springs, broadening my understandong related to Leadership, Strategic Airspace Defense, Operational Design, among other subjects.
 
 **Background in:** Python, Machine Learning, Swift, JavaScript, Web.
 
@@ -20,8 +20,8 @@ Graduei-me com bacharelado em Administração, e Ciências Aeronáuticas com mé
 * [Medium](https://www.medium.com)
 
 
-## Projetos:
-Esse repositório tem por objetivo expor projetos que desenvolvi dentro de Data Science:
+## Projects:
+This repository has the objective of show my projects within Data Science:
 
 * **Is there life outside Excel Spreadsheets?** - San Francisco Airbnb Data Analysis: https://bit.ly/2YwJBer
 
