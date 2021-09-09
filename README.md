@@ -17,7 +17,7 @@ I graduated in Management and in Aeronautical Science with an average score of 9
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/christianeloysio)
-* [Medium](https://www.medium.com)
+* [Medium](https://medium.com/@christianeloysio)
 
 
 ## Projects:
