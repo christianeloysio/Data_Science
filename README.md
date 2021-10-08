@@ -24,5 +24,5 @@ I graduated in Management and in Aeronautical Science with an average score of 9
 This repository has the objective to show my projects within Data Science:
 
 * **Is there life outside Excel Spreadsheets?** - San Francisco Airbnb Data Analysis: https://bit.ly/3BFcao4
-
+* * **Who gets to live during the pandemic?** - Covid 19 Public Data Analysis: https://bit.ly/3AnX7hM
 ---
