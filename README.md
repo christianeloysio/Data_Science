@@ -11,7 +11,7 @@
 
 With the experiencies I had as a fighter pilot, added to the knowledge absorved as a Strategy Consultant, I can combine strong analytical habilities to execution. I have already developed web and mobile applications, including a platform to solve social problems collaboratively in Brazil, and also an inventory management mobile app for small and medium business. Lately, I have dedicated myself to understand how technology can create value in a business enviroment, focusing in data science and machine learning.
 
-I graduated in Management and in Aeronautical Science with an average score of 9,73/10. I had the opportunity to be the first Brazilian to go for a semester exchange at the U.S. Air Force Academy in Colorado Springs, broadening my understandong related to Leadership, Strategic Airspace Defense, Operational Design, among other subjects.
+I graduated in Management and in Aeronautical Science with an average score of 9,73/10. I had the opportunity to be the first Brazilian to go for a semester exchange at the U.S. Air Force Academy in Colorado Springs, broadening my understanding related to Leadership, Strategic Airspace Defense, Operational Design, among other subjects.
 
 **Background in:** Python, Machine Learning, Swift, JavaScript, Web.
 
