@@ -23,6 +23,7 @@ I graduated in Management and in Aeronautical Science with an average score of 9
 ## Projects:
 This repository has the objective to show my projects within Data Science:
 
+* **Credit Card Fraud Detection** - Credit Card Fraud Detection using Machine Learning: https://bit.ly/3nT6cLe
 * **Who gets to live during the pandemic?** - Covid 19 Public Data Analysis: https://bit.ly/3AnX7hM
 * **Is there life outside Excel Spreadsheets?** - San Francisco Airbnb Data Analysis: https://bit.ly/3BFcao4
 ---
